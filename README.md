@@ -6,7 +6,7 @@ This project was made possible with the financial support of [Lablicate GmbH](ht
 
 ### Background:
 
-ImageJ is a powerful OpenSource scientific image processing and analysis software written in Java by Wayne Rasband
+[ImageJ](https://imagej.net/ij/) is a powerful OpenSource scientific image processing and analysis software written in Java by Wayne Rasband
 and widely used across various scientific domains (see References).
 However, this software can not only be used as a standalone image application but can also serve as an image library
 for the purpose of embedding it into different scientific or non-scientific image applications.
